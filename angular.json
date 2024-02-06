@@ -94,7 +94,8 @@
           "options": {
             "baseHref": "https://workerbee.consulting",
             "name": "Worker Bee Consulting LLC",
-            "email": "github@workerbee.consulting"
+            "email": "github@workerbee.consulting",
+            "cname": "workerbee.consulting"
           }
         }
       }
